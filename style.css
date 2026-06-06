@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0px;
+    background-color: burlywood;
+    height: 1px;
+}
+
+.logo {
+    padding: 50px;
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+.bo {
+    display: flex;
+}
+.be {
+    border-radius: 5px;
+    background-color: orangered;
+    gap: 10px;
+}
+.no {
+    display: flex;
+    padding: 50px;
+}
+.beo {
+    display: flex;
+}
+.boe {
+    color: orangered;
+    border-radius: 5px;
+    background-color: khaki;
+}
+.ho {
+    color: khaki;
+    border-radius: 5px;
+    background-color: orangered;
+}
+.bj {
+    width:602px ;
+    height:551px ;
+    margin-right: 50px;
+}
+.sec {
+    background-color: burlywood;
+    width: 1355px;
+    height: 800px;
+}
+.vb {
+    display: flex;
+    text-align: center;
+}
+.vn {
+    width: 705;
+    height: 560;
+    border-radius: 4px;
+    padding: 50px 50px 50px ;
+}
+.nm {
+    display: flex;
+}
+.mn {
+    width: 214;
+    height: 214;
+    border-top-left-radius: 4px;
+     border-bottom-left-radius: 4px;
+     margin: ;
+}
+.bn {
+width: 600;
+height: 214;
+top: 2396px;
+left: 345px;
+opacity: 1;
+border-radius: 4px;
+border-width: 1px;
+gap: 20px;
+}
+.nb {
+width: 214;
+height: 214;
+opacity: 1;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+gap: 20px;
+}
+.mnmn {
+width: 214;
+height: 214;
+opacity: 1;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+gap: 20px;
+}
+.bv {
+width: 214;
+height: 214;
+opacity: 1;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+gap: 20px;
+}
+.vx {
+width: 214;
+height: 214;
+opacity: 1;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+gap: 20px;
+box-shadow:1px 1px 10px-
+ ;
+}
+.bt {
+    display: flex;
+    padding: 50px;
+}
+.bnm {
+    background-color: orangered;
+    border-radius: 5px;
+}
+.bmn {
+    box-shadow: 1px 1px 10px;
+}
+.hg {
+    box-shadow: 1px 1px 10px;
+}
+.vbn {
+    box-shadow: 1px 1px 10px;
+}
+.vpn {
+    box-shadow: 1px 1px 10px;
+}
+.m {
+    box-shadow: 1px 1px 10px;
+}
+.bdbd {
+    box-shadow: 1px 1px 10px;
+}
