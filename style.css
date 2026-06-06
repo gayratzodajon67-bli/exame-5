@@ -144,19 +144,38 @@ box-shadow:1px 1px 10px-
 }
 .bmn {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
+    margin-top: 50px;
 }
 .hg {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
 }
 .vbn {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
 }
 .vpn {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
 }
 .m {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
 }
 .bdbd {
     box-shadow: 1px 1px 10px;
+    display: flex;
+    padding: 0px 50px 0px 0px;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
 }
